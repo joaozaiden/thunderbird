@@ -4,7 +4,7 @@
   <session-factory name="NHibernate.Test">
     <property name="connection.driver_class">NHibernate.Driver.MySqlDataDriver</property>
     <property name="connection.connection_string">
-      Database=thunderbird2;Server=localhost;User ID=root;Password=QAPLWSOK456
+      Database=test;Server=localhost;User ID=root;Password=laguardia
     </property>
     <property name="dialect">NHibernate.Dialect.MySQLDialect</property>
   </session-factory>
