@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\bin\Debug\Thunderbird.Business.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\bin\Debug\Thunderbird.Business.pdb
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\obj\Debug\Thunderbird.Business.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\obj\Debug\Thunderbird.Business.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\bin\Debug\Entity\Aluno.cs
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\bin\Debug\Thunderbird.Business.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\bin\Debug\Thunderbird.Business.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\bin\Debug\Thunderbird.Factory.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\bin\Debug\Thunderbird.Factory.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\obj\Debug\Thunderbird.Business.csprojResolveAssemblyReference.cache
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\obj\Debug\Thunderbird.Business.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Business\obj\Debug\Thunderbird.Business.pdb

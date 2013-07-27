@@ -1,0 +1,40 @@
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\Thunderbird.Web.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\Thunderbird.Web.pdb
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Providers.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\obj\Debug\Thunderbird.Web.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\obj\Debug\Thunderbird.Web.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\Thunderbird.Web.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\Thunderbird.Web.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\EntityFramework.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Helpers.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Mvc.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Providers.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Razor.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.Razor.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\EntityFramework.xml
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Helpers.xml
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Mvc.xml
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.Razor.xml
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.xml
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\bin\System.Web.WebPages.Razor.xml
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\obj\Debug\Thunderbird.Web.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Web\obj\Debug\Thunderbird.Web.pdb

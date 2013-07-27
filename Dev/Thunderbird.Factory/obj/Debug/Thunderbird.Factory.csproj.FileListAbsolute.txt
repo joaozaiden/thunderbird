@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Factory\bin\Debug\Entity\Aluno.cs
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Factory\bin\Debug\Thunderbird.Factory.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Factory\bin\Debug\Thunderbird.Factory.pdb
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Factory\obj\Debug\Thunderbird.Factory.dll
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Factory\obj\Debug\Thunderbird.Factory.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Factory\bin\Debug\Entity\Aluno.cs
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Factory\bin\Debug\Thunderbird.Factory.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Factory\bin\Debug\Thunderbird.Factory.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Factory\obj\Debug\Thunderbird.Factory.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.Factory\obj\Debug\Thunderbird.Factory.pdb

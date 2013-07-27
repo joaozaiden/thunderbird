@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="Thunderbird.Factory"
+                   namespace="Thunderbird.Factory.Entity" >
+  <class name="Aluno" table="t_aluno">
+   
+
+    <id name="Codigo" column="ID_ALUNO" type="int">
+      <generator class="native"></generator>
+    </id>
+    <property name="Nome" column="NOME_ALUNO" type="String"></property>
+  </class>
+
+</hibernate-mapping>

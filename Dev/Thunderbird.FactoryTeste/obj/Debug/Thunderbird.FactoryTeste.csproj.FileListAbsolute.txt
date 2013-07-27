@@ -1,0 +1,16 @@
+\\vmware-host\Shared Folders\Transferências\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\obj\Debug\Thunderbird.FactoryTeste.csprojResolveAssemblyReference.cache
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\Entity\Aluno.cs
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\hibernate.cfg.xml
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\Thunderbird.FactoryTeste.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\Thunderbird.FactoryTeste.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\Iesi.Collections.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\NHibernate.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\Thunderbird.Factory.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\Thunderbird.Factory.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\Iesi.Collections.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\Iesi.Collections.xml
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\NHibernate.pdb
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\bin\Debug\NHibernate.xml
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\obj\Debug\Thunderbird.FactoryTeste.csprojResolveAssemblyReference.cache
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\obj\Debug\Thunderbird.FactoryTeste.dll
+C:\Dev\thunderbird\Projeto\Thunderbird\Thunderbird.FactoryTeste\obj\Debug\Thunderbird.FactoryTeste.pdb
