@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{2173A5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thunderbird.FactoryTeste", "Thunderbird.FactoryTeste\Thunderbird.FactoryTeste.csproj", "{9E811B6E-F39A-407F-AB17-F67BD5C9FA2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alunos.Business.Teste", "Alunos.Business.Teste\Alunos.Business.Teste.csproj", "{A7003D91-B655-4C30-A9B0-D7758A6D7238}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,11 +35,16 @@ Global
 		{9E811B6E-F39A-407F-AB17-F67BD5C9FA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E811B6E-F39A-407F-AB17-F67BD5C9FA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E811B6E-F39A-407F-AB17-F67BD5C9FA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7003D91-B655-4C30-A9B0-D7758A6D7238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7003D91-B655-4C30-A9B0-D7758A6D7238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7003D91-B655-4C30-A9B0-D7758A6D7238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7003D91-B655-4C30-A9B0-D7758A6D7238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9E811B6E-F39A-407F-AB17-F67BD5C9FA2F} = {2173A586-7FDB-435A-B834-A61E268361A7}
+		{A7003D91-B655-4C30-A9B0-D7758A6D7238} = {2173A586-7FDB-435A-B834-A61E268361A7}
 	EndGlobalSection
 EndGlobal
