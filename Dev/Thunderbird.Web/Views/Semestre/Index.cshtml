@@ -1,0 +1,43 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var title = Thunderbird.Web.Resources.Internationalization.CRUD.Semestre.Semestre.SemestrePageTitle;
+    //var labelNomeFuncionario = Bootstrap.Resources.Internationalization.CRUD.Funcionario.Funcionario.labelNomeFuncionario;
+    //var labelTipoProfessor = Bootstrap.Resources.Internationalization.CRUD.Funcionario.Funcionario.labelTipoProfessor;
+    //var labelTipoSecretaria = Bootstrap.Resources.Internationalization.CRUD.Funcionario.Funcionario.labelTipoSecretaria;
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<h1>@title</h1>
+</head>
+<body>
+
+<form class="form-horizontal">
+  
+  <div class="control-group">
+    <label class="control-label" for="inputNomeFuncionario">labelNome</label>
+    <div class="controls">
+      <input type="text" id="inputNomeFuncionario" placeholder="Email">
+    </div>
+  </div>
+  
+  <div class="control-group">
+    <label class="control-label" for="inputEmailFuncionario">Email</label>
+    <div class="controls">
+      <input type="password" id="inputEmailFuncionario" placeholder="Password">
+    </div>
+  </div>
+
+  <div class="progress  progress-striped"  style="width:400px">
+  <div class="bar bar-success" style="width: 40%;"></div>
+  <div class="bar bar-warning" style="width: 20%;"></div>
+  <div class="bar bar-danger" style="width: 30%;"></div>
+</div>
+
+</form>
+
+</body>
+</html>
