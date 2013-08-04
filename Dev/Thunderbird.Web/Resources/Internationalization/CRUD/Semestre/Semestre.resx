@@ -117,6 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="labelAno" xml:space="preserve">
+    <value>Ano</value>
+  </data>
+  <data name="labelSemestre" xml:space="preserve">
+    <value>Semestre</value>
+  </data>
   <data name="SemestrePageTitle" xml:space="preserve">
     <value>SEMESTRE</value>
   </data>

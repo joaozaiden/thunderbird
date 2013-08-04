@@ -20,6 +20,19 @@ namespace Alunos.Business.Teste
             _repository.Salvar(aluno);
         }
 
+
+        [TestMethod]
+        public void cadastrarSemestre()
+        {
+            Semestre s = new Semestre();
+            s.Ano = "2013";
+            s.NomeSemestre = "2";
+            //aluno.Ativo = true;
+
+            SemestreRepository _repository = new SemestreRepository();
+            _repository.Salvar(s);
+        }
+
         [TestMethod]
         public void alterar()
         {
@@ -64,6 +77,15 @@ namespace Alunos.Business.Teste
             Assert.IsNotNull(fromDB);
 
             Console.WriteLine(fromDB.Nome);
+        }
+
+        [TestMethod]
+        public void selecionarTodosSemestre()
+        {
+            SemestreRepository _repository = new SemestreRepository();
+            IList<Semestre> fromDB = _repository.ObterTodos();
+            Assert.IsNotNull(fromDB);
+
         }
 
     }

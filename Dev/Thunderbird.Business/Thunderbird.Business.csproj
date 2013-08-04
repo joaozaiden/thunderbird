@@ -44,10 +44,11 @@
   <ItemGroup>
     <Compile Include="Implementation\AlunoRepository.cs" />
     <Compile Include="Implementation\RepositoryBase.cs" />
+    <Compile Include="Implementation\SemestreRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\IAlunoRepository.cs" />
     <Compile Include="Repository\IRepositoryBase.cs" />
-    <Compile Include="teste12.cs" />
+    <Compile Include="Repository\ISemestreRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Thunderbird.Factory\Thunderbird.Factory.csproj">

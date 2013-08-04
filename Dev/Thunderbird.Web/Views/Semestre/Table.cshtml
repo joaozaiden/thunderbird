@@ -1,0 +1,23 @@
+﻿@{
+ List<Thunderbird.Factory.Entity.Semestre> listaSemestre = (List<Thunderbird.Factory.Entity.Semestre>)Model;
+}   
+    @if (listaSemestre == null || listaSemestre.Count() == 0){
+        <label>Nada</label>         
+    } else {
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Ano</th>
+                <th>Semestre</th>
+            </tr>
+            @for (var i = 0; i < listaSemestre.Count(); i++)
+            { 
+                <tr>
+                    <td>@listaSemestre[i].Ano</td>
+                    <td>@listaSemestre[i].NomeSemestre</td>
+                </tr>
+            }
+            
+        </tbody>
+    </table>
+    }

@@ -61,6 +61,24 @@ namespace Thunderbird.Web.Resources.Internationalization.CRUD.Semestre {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Ano.
+        /// </summary>
+        public static string labelAno {
+            get {
+                return ResourceManager.GetString("labelAno", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Semestre.
+        /// </summary>
+        public static string labelSemestre {
+            get {
+                return ResourceManager.GetString("labelSemestre", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to SEMESTRE.
         /// </summary>
         public static string SemestrePageTitle {

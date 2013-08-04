@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Thunderbird.Business.Implementation;
+using Thunderbird.Factory.Entity;
 
 namespace Thunderbird.Web.Controllers
 {
@@ -100,6 +102,14 @@ namespace Thunderbird.Web.Controllers
             {
                 return View();
             }
+        }
+
+        public ActionResult Buscar()
+        {
+            SemestreRepository _repository = new SemestreRepository();
+            IList<Semestre> fromDB = _repository.ObterTodos();
+
+            return PartialView("Table", fromDB.ToList());
         }
     }
 }

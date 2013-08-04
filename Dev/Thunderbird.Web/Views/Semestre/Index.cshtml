@@ -1,6 +1,9 @@
 ﻿@{
     Layout = "~/Views/Shared/_Layout.cshtml";
     var title = Thunderbird.Web.Resources.Internationalization.CRUD.Semestre.Semestre.SemestrePageTitle;
+    var labelAno = Thunderbird.Web.Resources.Internationalization.CRUD.Semestre.Semestre.labelAno;
+    var labelSemestre = Thunderbird.Web.Resources.Internationalization.CRUD.Semestre.Semestre.labelSemestre;
+    var labelBuscar = Thunderbird.Web.Resources.Internationalization.Util.labelBuscar; 
     //var labelNomeFuncionario = Bootstrap.Resources.Internationalization.CRUD.Funcionario.Funcionario.labelNomeFuncionario;
     //var labelTipoProfessor = Bootstrap.Resources.Internationalization.CRUD.Funcionario.Funcionario.labelTipoProfessor;
     //var labelTipoSecretaria = Bootstrap.Resources.Internationalization.CRUD.Funcionario.Funcionario.labelTipoSecretaria;
@@ -17,24 +20,45 @@
 
 <form class="form-horizontal">
   
-  <div class="control-group">
-    <label class="control-label" for="inputNomeFuncionario">labelNome</label>
+   <div class="control-group">
+    <label class="control-label" for="inputNomeFuncionario">@labelAno</label>
     <div class="controls">
-      <input type="text" id="inputNomeFuncionario" placeholder="Email">
-    </div>
-  </div>
-  
-  <div class="control-group">
-    <label class="control-label" for="inputEmailFuncionario">Email</label>
-    <div class="controls">
-      <input type="password" id="inputEmailFuncionario" placeholder="Password">
+      <input type="text" id="inputAno" placeholder="Ano">
     </div>
   </div>
 
-  <div class="progress  progress-striped"  style="width:400px">
-  <div class="bar bar-success" style="width: 40%;"></div>
-  <div class="bar bar-warning" style="width: 20%;"></div>
-  <div class="bar bar-danger" style="width: 30%;"></div>
+  <div class="control-group">
+    <label class="control-label" for="inputNomeFuncionario">@labelSemestre</label>
+    <div class="controls">
+      <input type="text" id="inputSemestre" placeholder="Semestre">
+    </div>
+  </div>
+  
+    <button type="button" class="btn btn-primary" onclick="javascript:BuscarAnoSemestre()">@labelBuscar</button>
+
+    <script type="text/javascript">
+
+        function BuscarAnoSemestre() {
+
+            //var ano = $('#inputAno').val('');
+            //var semestre = $('#inputSemestre').val('');
+            //$.sendAjaxPost(currentPath + "Buscar", null, BuscarAnoSemestre_cb);
+
+            $.sendAjaxPost("Semestre/Buscar", null, BuscarAnoSemestre_cb);
+
+        };
+
+        function BuscarAnoSemestre_cb(json) {
+            
+        };
+
+        
+
+</script>
+ 
+
+<div id="TableDiv" style="width:100%;">
+@Html.Partial("Table")
 </div>
 
 </form>
